@@ -3,6 +3,7 @@ defaultContentLanguage = "en"
 title = "Hello Krystal"
 # theme
 theme = "LoveIt"
+publishDir = "krystalmejia24.github.io"
 
 # themes directory
 # themesDir = "../.."
@@ -182,9 +183,9 @@ enableEmoji = true
         [languages.en.params.comment]
           enable = true
           # Disqus Comment Config (https://disqus.com/)
-          [languages.en.params.comment.disqus]
+          #[languages.en.params.comment.disqus]
             # Disqus shortname to use Disqus in posts
-            shortname = "dillonzq"
+            #shortname = "dillonzq"
           # Gittalk Comment Config (https://github.com/gitalk/gitalk)
           [languages.en.params.comment.gitalk]
             owner = ""

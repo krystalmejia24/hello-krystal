@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kry Me 24 | Kry Me 24</title>
+        <link>http://krystalmejia24.github.io/</link>
+        <description>Kry Me 24 | Kry Me 24</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 29 Feb 2020 11:04:49 &#43;0800</lastBuildDate><atom:link href="http://krystalmejia24.github.io/" rel="self" type="application/rss+xml" /><item>
+                <title>Me</title>
+                <link>http://krystalmejia24.github.io/about/</link>
+                <pubDate>Sat, 29 Feb 2020 11:04:49 &#43;0800</pubDate><guid>http://krystalmejia24.github.io/about/</guid>
+                <description>&lt;p&gt;Hello. I&amp;rsquo;m Krystal.&lt;/p&gt;
+&lt;p&gt;A Software Engineer working on Video Dev stuff @ CBS Interactive.&lt;/p&gt;
+&lt;p&gt;My personal site is currently a work in progress.&lt;/p&gt;
+</description>
+            </item></channel>
+</rss>
